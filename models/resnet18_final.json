@@ -1,0 +1,17 @@
+{
+  "architecture": "resnet18",
+  "class_names": [
+    "Abnormal",
+    "History_of_MI",
+    "MI",
+    "Normal"
+  ],
+  "img_size": [
+    256,
+    352
+  ],
+  "epochs": 4,
+  "train_images": 491,
+  "cv_macro_f1_mean": 0.873,
+  "cv_macro_f1_std": 0.049
+}
