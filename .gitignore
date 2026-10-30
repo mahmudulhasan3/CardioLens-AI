@@ -13,6 +13,7 @@ __pycache__/
 
 # Dataset images (keep CSV metadata when needed)
 data/ECG*/
+data/Normal*/
 
 # Local test images
 test_images/
